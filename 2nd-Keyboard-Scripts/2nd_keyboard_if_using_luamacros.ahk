@@ -125,7 +125,7 @@ else if(key = "c")
 ;-------------------2nd package------------------
 else if(key = "r")
 {
-
+ Clipboard := "1495774276"
 }
 else if(key = "t")
 {

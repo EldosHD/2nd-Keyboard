@@ -1,1 +1,4 @@
-easy install.exe für meine 2nd-Keyboard Skripte erstellen --> läd mein GitHub repository, AHK und Luamacros runter und richtet alles ein!
+installer Scripte mit Progressbar verschönern
+
+
+bot dazu bringen nach einiger Zeit (wenn nyancat vorbei) zu leaven
