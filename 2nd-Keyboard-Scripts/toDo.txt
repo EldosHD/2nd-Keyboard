@@ -1,4 +1,0 @@
-installer Scripte mit Progressbar verschönern
-
-
-bot dazu bringen nach einiger Zeit (wenn nyancat vorbei) zu leaven
