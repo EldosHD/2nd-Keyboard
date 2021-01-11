@@ -25,10 +25,10 @@ You can use the script without knowing how to code, but you should consider lear
 # License
 
 ## Credit
-- Idea: Tom Scotts Video
-- Based on: Tarans Video
-- Keyboard Detection: LuaMacros
-- Scripting: AHK
+- Idea: [Tom Scotts Video](https://www.youtube.com/watch?v=lIFE7h3m40U&feature=emb_title)
+- Based on: [Tarans Video](https://www.youtube.com/watch?v=Arn8ExQ2Gjg)
+- Keyboard Detection: [LuaMacros](http://www.hidmacros.eu/forum/viewtopic.php?f=10&t=241#p794)
+- Scripting: [AHK](https://www.autohotkey.com/)
 
  I usually put credit for individual functions in comments inside my code.
 
