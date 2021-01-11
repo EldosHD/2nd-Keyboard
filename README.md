@@ -18,12 +18,16 @@ Lucky you! I made an installation script. You can find it [here](https://github.
 If you want to install it manually, you should watch [Tarans Video](https://www.youtube.com/watch?v=Arn8ExQ2Gjg) because he explains everything in there.
 
 ## Quickstart Guide
-You can use the script without knowing how to code, but you should consider learning AHK 
+You can use the script without knowing how to code, but you should consider learning AHK .
+
+**Note** Finish later-------------------
 
 # Wiki
 
-# License
+**Note** Finish later-------------------
 
+# License
+You can use all of my code in your projects, if you give proper credit.
 ## Credit
 - Idea: [Tom Scotts Video](https://www.youtube.com/watch?v=lIFE7h3m40U&feature=emb_title)
 - Based on: [Tarans Video](https://www.youtube.com/watch?v=Arn8ExQ2Gjg)
@@ -36,7 +40,3 @@ You can use the script without knowing how to code, but you should consider lear
 Email: Eldos.sonofelax@gmail.com
 Please give me some feedback.
 
-
---------------------------------------------------------------------------------------------------------
-Thats the code for my 2nd Keyboard. If you want to know more, watch the tutorial I watched to create it. 
-**Note** @EldosHD Add more description!
