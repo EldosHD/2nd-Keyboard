@@ -20,6 +20,22 @@ If you want to install it manually, you should watch [Tarans Video](https://www.
 ## Quickstart Guide
 You can use the script without knowing how to code, but you should consider learning AHK 
 
+# Wiki
+
+# License
+
+## Credit
+-Idea: Tom Scotts Video
+-Based on: Tarans Video
+-Keyboard Detection: LuaMacros
+-Scripting: AHK
+I usually put credit for individual functions in comments inside my code.
+
+# Contact
+Email: Eldos.sonofelax@gmail.com
+Please give me some feedback.
+
+
 --------------------------------------------------------------------------------------------------------
 Thats the code for my 2nd Keyboard. If you want to know more, watch the tutorial I watched to create it. 
 **Note** @EldosHD Add more description!
