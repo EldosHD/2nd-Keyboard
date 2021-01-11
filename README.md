@@ -29,7 +29,7 @@ You can use the script without knowing how to code, but you should consider lear
 - Based on: Tarans Video
 - Keyboard Detection: LuaMacros
 - Scripting: AHK
-   I usually put credit for individual functions in comments inside my code.
+   I usually put credit for individual functions in comments inside my code.   
 
 # Contact
 Email: Eldos.sonofelax@gmail.com
