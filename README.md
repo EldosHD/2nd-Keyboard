@@ -1,3 +1,5 @@
+**Note** this project is still under heavy development. This note will vanish, once its finished!
+
 # Why does this Repo exist?
 I saw [this](https://www.youtube.com/watch?v=Arn8ExQ2Gjg) video by Taran on LTT and wanted to make something similar. So i downloaded his code and tried the Program for my own. But i quickly discoverd, that I didn´t really had a use for it. So I started to delete most of Tarans code and developed some Functions in AHK. I created simple Autoclicker scripts (which I needed for Minecraft) and added a few folder shortcuts. But in the beginning they were really clumsy and unelegant so i polished them a bit. I created an [installer script](https://github.com/EldosHD/myInstallers) in case I needed to install my scripts on another computer or somebody else wanted to try it for themself.
 
