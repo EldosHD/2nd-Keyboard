@@ -32,7 +32,7 @@ You can use the script without knowing how to code, but you should consider lear
 2. If you close the LuaMacros script after you started it, it will exit. So click minimize. The window will vanish, but the script will keep running. You can access it and you AHK script via the system tray. Just look for keyboard icons.
 3. If you accidentally close your LuaMacros script, but the AHK script is still running, press `ctrl` + `shift` + `*` (on the numpad) and it will reopen.
 
-If you have more questions, look through the Wiki or write an [e-mail] to me
+If you have more questions, look through the Wiki or write an [e-mail](https://github.com/EldosHD/2nd-Keyboard/blob/master/README.md#contact) to me
 
 # Wiki
 
