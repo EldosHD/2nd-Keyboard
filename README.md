@@ -23,13 +23,13 @@ If you want to install it manually, you should watch [Tarans Video](https://www.
 You can use the script without knowing how to code, but you should consider learning AHK to write your own functions and/or improve my code.
 1. You should create shortcuts to both scripts and put them in your startup folder.
 2. Start the AHK and Lua scripts and tell your PC to use AHK/Lua as the default program. 
-3. Change `local keyboardIdentifier` to `0000AAA` in case it isn´t.
+3. Change `local keyboardIdentifier` inside the LuaMacros code to `0000AAA` in case it isn´t.
 4. Start the luamacros script inside the program itself (the blue play button).
 5. The console will ask you to identify device *MACROS*. Press a button on you second keyboard.
 
 **Done!**. But there are a few more things you should know:
 1. If you start your LuaMacros script it will check every USB input device thats plugged in. One of them is called `MACROS`. Look through `Systemid` for an eight charakter string like `1EC8BC12`. Thats your keyboard identifier. You should replace `local keyboardIdentifier` with that.
-2. If you close the LuaMacros script after you started it, it will exit. So click minimize. The window will vanish, but the script will keep running. You can access it and you AHK script via the system tray. Just look for keyboard icons.
+2. If you close the LuaMacros script after you started it, it will exit. So click minimize. The window will vanish, but the script will keep running. You can access it and your AHK script via the system tray. Just look for keyboard icons.
 3. If you accidentally close your LuaMacros script, but the AHK script is still running, press `ctrl` + `shift` + `*` (on the numpad) and it will reopen.
 
 If you have more questions, look through the Wiki or write an [e-mail](https://github.com/EldosHD/2nd-Keyboard/blob/master/README.md#contact) to me
