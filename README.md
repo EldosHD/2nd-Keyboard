@@ -10,7 +10,7 @@ Idk.
 
 ...
 
-Jk. [Lua Macros](http://www.hidmacros.eu/forum/viewtopic.php?f=10&t=241#p794) is a program, that was developed for the flight simulator communtiy. It is able to differentiate between multiple keyboards (cuz Windows can´t for some odd reason). If you press a button on your second keyboard, Lua Macros will intercept that buttonpress (sometimes), write the button which is pressed to a small file on disk and press the F24 Key. AHK will listen for that keypress, read the file on disk and execute the function you assigned to that key.
+Jk. [Lua Macros](http://www.hidmacros.eu/forum/viewtopic.php?f=10&t=241#p794) is a program, that was developed for the flight simulator communtiy. It is able to differentiate between multiple keyboards (cuz Windows can´t for some odd reason). If you press a button on your second keyboard, Lua Macros will intercept that buttonpress (sometimes), write that button to a small file on disk and press the F24 Key. AHK will listen for that keypress, read the file on disk and execute the function you assigned to that key.
 
 # How do I use it?
 Well First of all you will have to install it.
